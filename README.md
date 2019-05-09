@@ -1,4 +1,4 @@
-# crm
+# react native
 # 自己写的一个简单的app，基本布局都有使用到。
 # 一个crm管理app
 # 给几张图展示
